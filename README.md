@@ -1,4 +1,4 @@
-# Calc_Samiksha
+# Calc_Deva
 This Is a Calculator Application .
 addition operation is added.
 subtraction operation is added .
